@@ -87,10 +87,3 @@ python Zombie_handtracking_game.py
 * The game uses **your webcam** for gesture recognition.
 * Ensure good lighting and keep your hand visible to improve tracking accuracy.
 * MediaPipe supports **one hand at a time** in this version.
-
-
-## 📜 License
-
-This project is open-source for learning and personal use.
-
----
